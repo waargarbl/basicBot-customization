@@ -93,7 +93,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: true,
         motdInterval: 5,
-        motd: "The Future has Robots",
+        motd: "Welcome to the Future: Please follow chat rules and keep it friendly! Three downvotes is an autoskip.",
         filterChat: false,
         etaRestriction: false,
         welcome: true,
