@@ -93,11 +93,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: true,
         motdInterval: 5,
-        motd: "
-        Please follow chat rules and keep it friendly! 
-        3 MEH's = autoskip
-        !commands for a list of commands
-        ",
+        motd: "Follow chat rules and keep it friendly!                    Three meh's = autoskip.                    Type !commands for a list of commands",
         filterChat: false,
         etaRestriction: false,
         welcome: true,
